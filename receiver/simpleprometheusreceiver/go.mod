@@ -11,5 +11,5 @@ require (
 	go.opentelemetry.io/collector v0.30.2-0.20210723184018-3b7d6ce4830c
 	go.opentelemetry.io/collector/model v0.30.2-0.20210723184018-3b7d6ce4830c // indirect
 	gopkg.in/square/go-jose.v2 v2.5.1 // indirect
-	k8s.io/client-go v0.21.3
+	k8s.io/client-go v0.22.0
 )
