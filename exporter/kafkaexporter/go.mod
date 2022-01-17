@@ -10,7 +10,7 @@ require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/internal/coreinternal v0.38.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/pkg/translator/jaeger v0.38.0
 	github.com/stretchr/testify v1.7.0
-	github.com/xdg-go/scram v1.0.2
+	github.com/xdg-go/scram v1.1.0
 	go.opentelemetry.io/collector v0.38.1-0.20211103011348-c24dfeb047a8
 	go.opentelemetry.io/collector/model v0.38.1-0.20211103011348-c24dfeb047a8
 	go.uber.org/multierr v1.7.0
