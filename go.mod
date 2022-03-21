@@ -116,7 +116,7 @@ require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/receiver/zipkinreceiver v0.43.0
 	github.com/open-telemetry/opentelemetry-collector-contrib/receiver/zookeeperreceiver v0.43.0
 	github.com/prometheus/prometheus v1.8.2-0.20220117154355-4855a0c067e2
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.1
 	go.opentelemetry.io/collector v0.43.1
 	golang.org/x/sys v0.0.0-20220114195835-da31bd327af9
 )
@@ -411,7 +411,6 @@ require (
 	github.com/vishvananda/netns v0.0.0-20200728191858-db3c7e526aae // indirect
 	github.com/vmihailenco/msgpack/v5 v5.3.5 // indirect
 	github.com/vmihailenco/tagparser/v2 v2.0.0 // indirect
-	github.com/wavefronthq/go-metrics-wavefront v1.0.3 // indirect
 	github.com/wavefronthq/wavefront-sdk-go v0.9.9 // indirect
 	github.com/xdg-go/pbkdf2 v1.0.0 // indirect
 	github.com/xdg-go/scram v1.1.0 // indirect
