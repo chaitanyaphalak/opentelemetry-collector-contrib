@@ -6,7 +6,7 @@ require (
 	cloud.google.com/go/spanner v1.29.0
 	github.com/stretchr/testify v1.7.0
 	go.opentelemetry.io/collector v0.43.1
-	go.opentelemetry.io/collector/model v0.43.1
+	go.opentelemetry.io/collector/model v0.47.0
 	go.uber.org/zap v1.20.0
 	google.golang.org/api v0.65.0
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
@@ -15,7 +15,7 @@ require (
 
 require (
 	google.golang.org/genproto v0.0.0-20220111164026-67b88f271998
-	google.golang.org/grpc v1.43.0
+	google.golang.org/grpc v1.45.0
 )
 
 require (
