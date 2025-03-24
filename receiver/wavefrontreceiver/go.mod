@@ -1,6 +1,7 @@
 module github.com/open-telemetry/opentelemetry-collector-contrib/receiver/wavefrontreceiver
 
 go 1.17
+toolchain go1.24.1
 
 require (
 	github.com/census-instrumentation/opencensus-proto v0.3.0
@@ -10,7 +11,7 @@ require (
 	github.com/open-telemetry/opentelemetry-collector-contrib/receiver/collectdreceiver v0.43.0
 	github.com/stretchr/testify v1.7.0
 	go.opentelemetry.io/collector v0.43.1
-	google.golang.org/protobuf v1.27.1
+	google.golang.org/protobuf v1.36.6
 )
 
 require (
